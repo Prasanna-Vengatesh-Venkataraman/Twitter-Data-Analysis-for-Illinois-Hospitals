@@ -1,3 +1,3 @@
-# Twitter-Data-Analysis-for-Illinois-Hospitals
+# Twitter Data Analysis for Illinois Hospitals
 
 This project performs a state wide analysis to determine the COVID-19 precautions taken by hospitals in Illinois via twitter data. A total of 46 Illinois hospitals both rural and urban were taken into consideration. The total tweet dataset was about 11,000 dated from January 2020 to September 2020. The tools and techniques used were Twint for twitter data scraping, CorEx for topic modelling to find coherent meaningful topics measured across a corpus of text and finally an in depth exploratory analysis was performed to find the significant correlation between topics. A tweeting pattern that has made a considerable impact in generating awareness during COVID-19 by the hospitals is analysed.
